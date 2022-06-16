@@ -1,0 +1,1 @@
+console.log('storing file in s3');
